@@ -7,6 +7,11 @@
 %    Diffractive theory to display super-Gaussian array applying the
 %    irradiance transport equation", sometido al Journal Optik/Optics at 
 %    Elsevier
+%
+%    Correspondings Authors:
+%    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
+%    b.cuevas.otahola@gmail.com   ;   bolivia.cuevasotahola@viep.com.mx 
+%
 %    El script se dividio en 6 secciones como se driscribio en el manuscrito
 %    ademas del orden de obtencion de resultados.
 %    En la Seccion I obtenemos la base de la LCD (LCSLM).
@@ -644,18 +649,3 @@ Mask3 = zeros(TTT,TTT);
 
 figure;
 imshow(Mask3); title('Diffraction Mask, LCD simutaled with Image test 1');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
