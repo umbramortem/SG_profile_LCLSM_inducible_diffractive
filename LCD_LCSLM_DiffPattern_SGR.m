@@ -1,47 +1,35 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%   El presnete codigo es una parte importante en la optencion de 
-%
-%
-%    resultados del manuscrito titulado "Simulated LCSLM with inductible 
+%%   This code constitutes an important tool for obtaining the results in
+%    the manuscript entitled  "Simulated LCSLM with inductible 
 %    Diffractive theory to display super-Gaussian array applying the
-%    irradiance transport equation", sometido al Journal Optik/Optics at 
-%    Elsevier
+%    irradiance transport equation", submitted to the Elsevier Optik Journal
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
 %    b.cuevas.otahola@gmail.com   ;   bolivia.cuevasotahola@viep.com.mx 
 %
-%    El script se dividio en 6 secciones como se driscribio en el manuscrito
-%    ademas del orden de obtencion de resultados.
-%    En la Seccion I obtenemos la base de la LCD (LCSLM).
-%    En la Seccion II obtnemos la LCD y la comprobamos obcervando los test
-%    chart obtenidos de los siguientes enlaces:
-%    https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
-%    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338
-%    En la Seccion III obtenemos la LCD considerando el borde de su
-%    pantalla, donde se peude simular cualquier tamaño en LCD y pantalla.
-%    En la Seccion IV se simulas LCD de 1x1, 2x2, 3x3 pixeles para obtener
-%    su patron de difraccion por Fourier Transform.
-%    En la Seccion V obtenemos los difrraction pattern para el caso de LCD 
-%    de 1x1, 2x2, 3x3 y 512x512 pixeles mediante los calculos del pdf 
-%    "Supplementary Document"
-%    En la Seccion VI obtenemos la SGR (Super Gaussian Riling) como una 
-%    rejilla de franjas con perfil Super-Gaussiano.
-%
-%
-%    Debe tenerse en consideracion que los resultados se obtuvieron en una
-%    pc Gamming con procesador i7 de 16 nucleos con 64 gb en RAM y una
-%    taregta grafica de con 1280 cuda cores y 4gb GDDR6.
-%    Los resultados se obtuvieron para matrices de 1024x1024 por lo que se
-%    debe tener en consideracion el poder de computo para emular los
-%    resultados. Es facil reescalar los resultados para matrices de 512x512
-%    pero se deben considerar los parametros a modificar.
-%
-%
-%
-%
-%
+%    The code contains six sections, each one described in the manuscript
+%    following the order of the results.  In Section I, we obtain the LCD base (LCSLM).
+%    In Section, we obtain and validate the LCD, observing the test charts provided 
+%    in https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
+%    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338.
+%    In Section III, we obtain the LCD, considering the screen border 
+%    where it is possible to simulate any LCD and screen size.
+%    In Section IV, we simulate 1x1, 2x2, and 3x3 pixels LCD to obtain
+%    their diffraction pattern using a Fourier Transform.
+%    In Section V, we obtain the diffraction patterns as in the 1x1, 2x2, and 512x512
+%    pixels cases, from the computations in the pdf "Supplementary Document”.
+%    In Section VI, we obtain the SGR (Super Gaussian Ruling) as a ruling
+%    constituted by fringes following a Super-gaussian profile.
+
+
+%    We bear in mind that the results were obtained using a Gaming computer with an 
+%    i7 processor with 16 cores and 64 Gb of RAM, and a graphic board with 1280 Cuda 
+%    cores and 4Gb GDDR6. The obtained results correspond to 1024x1024 matrices, 
+%    considering the available computing power, to reproduce the results.  It is 
+%    straightforward to re-scale the results for  512x512 matrices, taking into account 
+%    the parameters to be modified. 
 %
 %
 %%
