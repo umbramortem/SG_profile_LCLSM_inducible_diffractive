@@ -529,12 +529,13 @@ x=imresize(y,[1 c]);
 [X,Y] = meshgrid(x,x);
 R0 = 1;
 r = (sqrt( (X.*X) + (Y.*Y) ));
-a = 1/12;            % Valor solo para el ejemplo de 50 franjas SG
-                     %este termino determina el ancho de las franjas, su 
-                     %ancho debe ser el valor t, pero al incrementar a se 
-                     %disminulle el ancho y al aumentar a se incrementa el
-                     %ancho de las ffranjas SG
-                     
+a = 1/12;            % Value only for the example of 50 SG fringes
+                     % this term determines the width of the fringes, their
+                     % width must be the value t, but increasing to se
+                     % decreases the width and increasing to increases the
+                     % width of SG fringes
+
+
 sigma = 1/(sqrt(a));
 Wb =  2*(sigma^2);
 
@@ -557,11 +558,12 @@ title('Super-Gaussian fringe, pattern basis');
 
 % Super Gaussian center in a X0
 % center at
-t = 10.24;       % solo para el ejemplo de 50 franjas
+t = 10.24;       % only for the example of 50 fringes
 
-%t = c/(2*Num);   %expresion general que determina el ancho de las franjas
-                  %segun se incremente o dismiya el ancho de las franjas
-                  %respecto del valor de "a"
+%t = c/(2*Num);  % general expression that determines the width of the fringes
+                 % as the width of the fringes increases or decreases
+                 % with respect to the value of "a"
+
 
 % Because "c = 1024", but if "c = 512" then it must be satisfy that" t = 5.12"
 
