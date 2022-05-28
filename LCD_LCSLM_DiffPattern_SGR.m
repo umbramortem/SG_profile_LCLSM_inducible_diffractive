@@ -3,7 +3,7 @@
 %%   This code constitutes an important tool for obtaining the results in
 %    the manuscript entitled  "Simulated LCSLM with inductible 
 %    Diffractive theory to display super-Gaussian array applying the
-%    irradiance transport equation", submitted to the Elsevier Optik Journal
+%    irradiance transport equation", submitted to the Journal of Optics-IOPs
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
@@ -14,6 +14,7 @@
 %    In Section, we obtain and validate the LCD, observing the test charts provided 
 %    in https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
 %    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338.
+%    Contempleando que el valor experimental de los pixeles en una LCSLM se encuentra entre los 4 y 8 microns
 %    In Section III, we obtain the LCD, considering the screen border 
 %    where it is possible to simulate any LCD and screen size.
 %    In Section IV, we simulate 1x1, 2x2, and 3x3 pixels LCD to obtain
