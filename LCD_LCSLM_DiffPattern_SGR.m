@@ -14,7 +14,8 @@
 %    In Section, we obtain and validate the LCD, observing the test charts provided 
 %    in https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
 %    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338.
-%    Considering that the experimental value of an LCSLM pixel ranges between 4 and 8 microns
+%    Considering that the experimental value of an LCSLM pixel ranges 
+%    between 4 and 8 microns
 %    In Section III, we obtain the LCD, considering the screen border 
 %    where it is possible to simulate any LCD and screen size.
 %    In Section IV, we simulate 1x1, 2x2, and 3x3 pixels LCD to obtain
