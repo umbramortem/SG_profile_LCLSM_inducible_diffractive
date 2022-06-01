@@ -10,10 +10,13 @@
 %    b.cuevas.otahola@gmail.com   ;   bolivia.cuevasotahola@viep.com.mx 
 %
 %    The code contains six sections, each one described in the manuscript
-%    following the order of the results.  In Section I, we obtain the LCD base (LCSLM).
-%    In Section, we obtain and validate the LCD, observing the test charts provided 
+%    following the order of the results.  
+%    In Section I, we obtain the LCD base (LCSLM).
+%    In Section II, we obtain and validate the LCD, observing the test charts provided 
 %    in https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
 %    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338.
+%    Recordar descargar primero las imagenes y posteriormente modificar el codigo
+%    conforme a la locacion donde guarde las imagenes (linea 118 y 120).
 %    Considering that the experimental value of an LCSLM pixel ranges 
 %    between 4 and 8 microns.
 %    In Section III, we obtain the LCD, considering the screen border 
