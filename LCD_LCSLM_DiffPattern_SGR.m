@@ -15,8 +15,8 @@
 %    In Section II, we obtain and validate the LCD, observing the test charts provided 
 %    in https://www.hwalworks.com/The-Year-of-Resolution-Test-Chart
 %    https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4338.
-%    Recordar descargar primero las imagenes y posteriormente modificar el codigo
-%    conforme a la locacion donde guarde las imagenes (linea 118 y 120).
+%    The users need to download the images in this repository and modify the code
+%    including the location to the downloaded images (lines 120 and 122).
 %    Considering that the experimental value of an LCSLM pixel ranges 
 %    between 4 and 8 microns.
 %    In Section III, we obtain the LCD, considering the screen border 
