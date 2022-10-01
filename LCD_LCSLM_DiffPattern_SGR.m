@@ -7,7 +7,7 @@
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
-%    b.cuevas.otahola@gmail.com   ;   bolivia.cuevasotahola@viep.com.mx 
+%    b.cuevas.otahola@gmail.com   ;   b.cuevas@irya.unam.mx
 %
 %    The code contains six sections, each one described in the manuscript
 %    following the order of the results.  
