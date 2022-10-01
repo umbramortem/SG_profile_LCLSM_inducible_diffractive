@@ -3,7 +3,7 @@
 %%   This code constitutes an important tool for obtaining the results in
 %    the manuscript entitled  "Simulated LCSLM with inductible 
 %    Diffractive theory to display super-Gaussian array applying the
-%    irradiance transport equation", submitted to Applied Science MDPI
+%    irradiance transport equation", submitted to Applied Sciences MDPI
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
