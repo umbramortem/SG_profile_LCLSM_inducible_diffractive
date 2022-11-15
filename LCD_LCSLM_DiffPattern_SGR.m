@@ -1,9 +1,9 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%   This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Inducible diffractive theory in LCSLM to display
-%    super-Gaussian arrays for wavefront sensing applying the Transport-of-Intensity 
-%    Equation", submitted to Optik Elsevier
+%    the manuscript entitled  "Simulated LCSLM with inducible diffractive 
+%    theory to display super-Gaussian arrays applying the Transport-of-Intensity
+%    Equation", submitted to MDPI Sensors
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
