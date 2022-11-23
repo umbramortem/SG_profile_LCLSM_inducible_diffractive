@@ -3,7 +3,7 @@
 %%   This code constitutes an important tool for obtaining the results in
 %    the manuscript entitled  "Simulated LCSLM with inducible diffractive 
 %    theory to display super-Gaussian arrays applying the Transport-of-Intensity
-%    Equation", submitted to MDPI Sensors
+%    Equation", submitted to MDPI Photonics
 %
 %    Correspondings Authors:
 %    dr.j.a.arriaga.hernandez@gmail.com ;  jesus.arriagahdz@correo.buap.mx 
